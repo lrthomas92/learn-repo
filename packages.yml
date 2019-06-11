@@ -3,4 +3,4 @@
 packages:
 
   - git: "https://github.com/fishtown-analytics/dbt-utils.git"
-    revision: 0.1.22 # tag or branch name
+    revision: 0.1.23 # tag or branch name
